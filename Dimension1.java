@@ -7,7 +7,7 @@ public class Dimension1 {
 
         double equation = (-eq2 + ((eq2*eq2) - 4*eq1*eq3))/2*eq1;;
 
-        System.out.println("The Dimensional Coeficient is:" + equation);
+        System.out.println("The Dimensional Coefficient is:" + equation);
 
 
     }
